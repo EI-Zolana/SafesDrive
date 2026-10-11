@@ -1,0 +1,18 @@
+# Ficheiros do sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Configurações locais
+.vscode/
+*.user
+
+# Ficheiros temporários e logs
+*.tmp
+*.log
+~$*
+
+# Segredos e credenciais
+.env
+.env.*
+!.env.example
